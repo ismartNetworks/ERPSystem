@@ -1,0 +1,8 @@
+E:\VS2015 Projects\ERPSystem\ERPSystem\bin\Debug\ERPSystem.exe.config
+E:\VS2015 Projects\ERPSystem\ERPSystem\bin\Debug\ERPSystem.exe
+E:\VS2015 Projects\ERPSystem\ERPSystem\bin\Debug\ERPSystem.pdb
+E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.csprojResolveAssemblyReference.cache
+E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.Properties.Resources.resources
+E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.csproj.GenerateResource.Cache
+E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.exe
+E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.pdb
