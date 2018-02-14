@@ -6,3 +6,11 @@ E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.Properties.Resources.
 E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.csproj.GenerateResource.Cache
 E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.exe
 E:\VS2015 Projects\ERPSystem\ERPSystem\obj\Debug\ERPSystem.pdb
+E:\GitHub\ERPSystem\ERPSystem\bin\Debug\ERPSystem.exe.config
+E:\GitHub\ERPSystem\ERPSystem\bin\Debug\ERPSystem.exe
+E:\GitHub\ERPSystem\ERPSystem\bin\Debug\ERPSystem.pdb
+E:\GitHub\ERPSystem\ERPSystem\obj\Debug\ERPSystem.csprojResolveAssemblyReference.cache
+E:\GitHub\ERPSystem\ERPSystem\obj\Debug\ERPSystem.Properties.Resources.resources
+E:\GitHub\ERPSystem\ERPSystem\obj\Debug\ERPSystem.csproj.GenerateResource.Cache
+E:\GitHub\ERPSystem\ERPSystem\obj\Debug\ERPSystem.exe
+E:\GitHub\ERPSystem\ERPSystem\obj\Debug\ERPSystem.pdb
